@@ -1,0 +1,40 @@
+[{
+	"name": "Proyecto mobile 1",
+	"description": "Descripcion del proyecto",
+	"link": "http://miweb.com/proyecto",
+	"img": "https://picsum.photos/400/225",
+	"technologies": ["PHP", "Vue", "Laravel"],
+	"section": "mobile"
+},
+{
+	"name": "Proyecto LandingPage 1",
+	"description": "Descripcion del proyecto",
+	"link": "http://miweb.com/proyecto",
+	"img": "https://picsum.photos/400/225",
+	"technologies": ["PHP", "Vue", "Laravel"],
+	"section": "LandingPage"
+},
+{
+	"name": "Proyecto Web App 1",
+	"description": "Descripcion del proyecto",
+	"link": "http://miweb.com/proyecto",
+	"img": "https://picsum.photos/400/225",
+	"technologies": ["PHP", "Vue", "Laravel"],
+	"section": "WebApp"
+},
+{
+	"name": "Proyecto e-Commerce 1",
+	"description": "Descripcion del proyecto",
+	"link": "http://miweb.com/proyecto",
+	"img": "https://picsum.photos/400/225",
+	"technologies": ["PHP", "Vue", "Laravel"],
+	"section": "e-Commerce"
+},
+{
+	"name": "Proyecto Games 1",
+	"description": "Descripcion del proyecto",
+	"link": "http://miweb.com/proyecto",
+	"img": "https://picsum.photos/400/225",
+	"technologies": ["PHP", "Vue", "Laravel"],
+	"section": "Games"
+}]

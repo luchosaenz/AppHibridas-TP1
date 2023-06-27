@@ -1,0 +1,20 @@
+{
+  "name": "apphibridas-tp1",
+  "version": "1.0.0",
+  "description": "Recuperatorio primer parcial\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ddel \u001b[C\u001b[Dprimer parcial",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --ignore data/ app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luciano Ariel Saenz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "mongodb": "5.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.22"
+  }
+}
